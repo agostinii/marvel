@@ -15,7 +15,7 @@ Instale o node seguindo o setup de instalação
 Faça o download do projeto e escolha um diretório de sua preferência. Ex: c:/marvel-master
 
 4 - Open Node.js command prompt
-Abra o prompt de comando do node.js, vá até o caminho da pasta aonde você extraiu o projeto
+Abra o prompt de comando do node.js, vá até o caminho da pasta aonde você extraiu o projeto. Ex: cd c:/marvel-master
 
 5 - Install dependencies
 Instale as dependências do projeto: npm install
