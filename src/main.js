@@ -8,8 +8,6 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.use(BootstrapVue)
 
-var VueResource = require('vue-resource')
-Vue.use(VueResource)
 var Axios = require('axios')
 Vue.use(Axios)
 
